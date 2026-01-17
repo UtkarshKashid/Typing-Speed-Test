@@ -42,7 +42,7 @@ It displays a randomly generated paragraph, tracks real-time typing behavior, an
 ## 🚀 Live Demo
 
 🔗 **Project Demo:**  
-
+https://utkarshkashid.github.io/Typing-Speed-Test/
 
 ---
 
