@@ -9,11 +9,6 @@ A clean and interactive **Typing Speed Test** web application built using **HTML
 This project is a browser-based typing speed test designed to help users improve their typing accuracy and speed.  
 It displays a randomly generated paragraph, tracks real-time typing behavior, and calculates performance metrics such as WPM, CPM, and mistakes within a fixed time duration.
 
----
-
-## 🖼️ Preview
-
-![Typing Speed Test Preview](typing-speed-test.png)
 
 ---
 
@@ -36,6 +31,13 @@ It displays a randomly generated paragraph, tracks real-time typing behavior, an
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+---
+
+## 🖼️ Preview
+
+### 🔹 Typing Speed Test (WPM):
+![Typing Speed Test Preview](typing-speed-test.png)
 
 ---
 
